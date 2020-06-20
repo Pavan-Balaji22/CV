@@ -1,0 +1,147 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-size: 0;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  position: relative;
+  font-family: 'Caveat', cursive;
+  font-size: 5rem;
+  color: #222831;
+}
+
+h2 {
+  margin: 0;
+  font-family: 'Niconne', cursive;
+  position: relative;
+  font-size: 2.625rem;
+  color: #222831;
+}
+
+p {
+  font-size: 1rem;
+  font-family: 'Sriracha', cursive;
+  line-height: 2;
+}
+
+a {
+  font-size: 1rem;
+  padding: 0 20px;
+  font-family: 'Sriracha', cursive;
+  color: #00263b;
+}
+
+.top-container {
+  background-color: #77d8d8;
+  padding-top: 150px;
+}
+
+.middle-container {
+  background-color: #ddf3f5;
+}
+
+.bottom-container {
+  padding: 20px 0;
+  background-color: #77d8d8;
+}
+
+.top-containerh2 {
+  font-weight: normal;
+}
+
+.bottom-container p {
+  color:#EAF6F6;
+}
+
+.cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 400px;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 400px;
+  top: 100px;
+}
+
+.computer {
+  border-radius: 50% 50%;
+  height: 210px;
+  width: 210px;
+  float: left;
+  margin-right: 30px;
+}
+.chillies{
+  height: 210px;
+  width: 210px;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile{
+  width: 30%;
+  margin: 0 auto 0 auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+
+}
+.Skill{
+  padding-top: 30px;
+}
+.skill-row{
+  width: 50%;
+  margin: 60px auto 60px auto;
+  text-align: left;
+  padding: 30px 0;
+}
+.contact_me{
+  padding:30px  0;
+}
+.BUTTON_TSP {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 0px;
+   line-height: 0px;
+   color: #FFFFFF;
+   font-family: sans-serif;
+   width: 90px;
+   font-size: 16px;
+   font-weight: 100;
+   padding: 13px;
+   background-color: #4F8A8B;
+   box-shadow: 1px 1px 5px 0px #000000;
+   -webkit-box-shadow: 1px 1px 5px 0px #000000;
+   -moz-box-shadow: 1px 1px 5px 0px #000000;
+   border: solid #4F8A8B 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_TSP:hover {
+   background: #4F8A8B;
+
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 10px;
+   text-decoration: none;
+}
+.website{
+  text-decoration: none;
+}
+.website:hover{
+  color:#eaf6f6;
+}
+ hr{
+   border:none;
+   border-top: dotted 10px;
+   border-color: #a6dcef;
+   width: 5%;
+   opacity: 0.5;
+ }
