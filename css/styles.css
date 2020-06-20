@@ -36,6 +36,7 @@ a {
 .top-container {
   background-color: #77d8d8;
   padding-top: 150px;
+  position:relative;
 }
 
 .middle-container {
